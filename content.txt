@@ -1,7 +1,5 @@
 Header / nav:
-Home
-Essay
-Gallery
+
 
 
 Main heading/page title: Midnight in the City
@@ -35,3 +33,4 @@ Section 3: After Hours
 
 
 Footer: © 2026 All rights reserved
+
